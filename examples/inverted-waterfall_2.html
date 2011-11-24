@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>Inverted Waterfall Chart</title>
+	</head>
+	<body>		
+		<div id="container" style="width: 800px; height: 400px; margin: 0 auto"></div>
+		<script type="text/javascript" src="../javascripts/jquery-1.6.min.js"></script>
+		<script type="text/javascript" src="../javascripts/highcharts.src.js"></script>
+		<script type="text/javascript" src="../javascripts/inverted_waterfall.js"></script>
+		<script type="text/javascript">			
+			$("#container1").invertedWaterfallChart({
+				data: [{y: 100, low: 0, label: '100K'},
+				{y: 100, low: 50, label: '50K'},
+				{y: 50, low: 20, label: '30K'},
+				{y: 20, low: 0, label: '-20K', color: 'red'}],
+				categories: ['Required','Planned','Actual','Gap'],
+				min: 0,
+				max: 100
+			});
+		</script>
+	</body>
+</html>
+
