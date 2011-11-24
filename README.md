@@ -2,9 +2,9 @@ Inverted Waterfall Chart using [highcharts](http://www.highcharts.com/) JS libra
 
 Examples :-
 
-<img alt="Waterfall Chart1" src="http://github.com/NiranjanSarade/inverted-waterfall-chart/raw/master/images/chart1.png" />
-<img alt="Waterfall Chart2" src="http://github.com/NiranjanSarade/inverted-waterfall-chart/raw/master/images/chart2.png" />
-<img alt="Waterfall Chart3" src="http://github.com/NiranjanSarade/inverted-waterfall-chart/raw/master/images/chart3.png" />
+![Waterfall Chart1](http://github.com/NiranjanSarade/inverted-waterfall-chart/raw/master/images/chart1.png "Zero Gap")
+![Waterfall Chart2](http://github.com/NiranjanSarade/inverted-waterfall-chart/raw/master/images/chart2.png "Positive Gap")
+![Waterfall Chart3](http://github.com/NiranjanSarade/inverted-waterfall-chart/raw/master/images/chart3.png "Negative Gap")
 
 Thanks to [Amit Kumar](http://github.com/toamitkumar) for providing some guidance in implementing this chart.
 
