@@ -2,10 +2,10 @@ Inverted Waterfall Chart using [highcharts](http://www.highcharts.com/) JS libra
 
 Examples :-
 
-![Waterfall Chart1](http://github.com/NiranjanSarade/inverted-waterfall-chart/blob/master/images/chart1.png)
-![Waterfall Chart2](/images/chart2.png)
-![Waterfall Chart3](/images/chart3.png)
+<img alt="Waterfall Chart1" src="http://github.com/NiranjanSarade/inverted-waterfall-chart/blob/master/images/chart1.png" />
+<img alt="Waterfall Chart2" src="http://github.com/NiranjanSarade/inverted-waterfall-chart/blob/master/images/chart2.png" />
+<img alt="Waterfall Chart3" src="http://github.com/NiranjanSarade/inverted-waterfall-chart/blob/master/images/chart3.png" />
 
-Thanks to [Amit Kumar](http://github.com/toamitkumar) for his help in implementing this chart.
+Thanks to [Amit Kumar](http://github.com/toamitkumar) for providing some guidance in implementing this chart.
 
 
