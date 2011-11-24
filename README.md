@@ -1,8 +1,8 @@
-Inverted Waterfall Charts using [highcharts](http://www.highcharts.com/) JS library.
+Inverted Waterfall Chart using [highcharts](http://www.highcharts.com/) JS library.
 
 Examples :-
 
-![Waterfall Chart1](\images\chart1.png)
+![Waterfall Chart1](http://github.com/NiranjanSarade/inverted-waterfall-chart/blob/master/images/chart1.png)
 ![Waterfall Chart2](/images/chart2.png)
 ![Waterfall Chart3](/images/chart3.png)
 
